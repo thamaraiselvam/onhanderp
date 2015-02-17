@@ -1,4 +1,0 @@
-onhanderp
-=========
-
-Open source ERP
